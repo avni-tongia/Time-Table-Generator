@@ -1,9 +1,4 @@
 # Time Table Generator
-Here is a sample README file for your **Time Table Generator** application:
-
----
-
-# Time Table Generator
 
 A Python-based application designed to simplify and automate the process of creating, managing, and viewing time tables for educational institutions. Built using `tkinter` for GUI and `MySQL` for database management, this program offers a user-friendly interface and robust functionality.
 
@@ -73,9 +68,3 @@ Before running the application, ensure the following:
 
 ---
 
-### Notes
-
-- Ensure all dependencies are properly installed before running the program.
-- For troubleshooting, refer to the log or error messages displayed during runtime.
-
-Let me know if you'd like to customize further! 
